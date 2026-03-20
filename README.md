@@ -1,2 +1,3 @@
-# next-analytics-dashboard-q9m0
-Automated issue comment bot repository
+# Next Analytics Dashboard Q9M0
+
+Automated issue comment bot repository.
